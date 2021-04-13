@@ -1,0 +1,11 @@
+
+Base de datos
+server name: SQL5102.site4now.net
+Usuario: DB_A6CE0B_equipocompleto_admin
+clave: 3qu1poc0mpl3t0!
+
+
+FTP
+servidor: ftp.site4now.net
+usuario:equipocompleto-001
+clave:3qu1poc0mpl3t0!
